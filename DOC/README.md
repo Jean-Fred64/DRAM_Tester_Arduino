@@ -3,7 +3,14 @@
 
 ## Quick procedure
 
-Install a chip on tester
+
+Power ON arduino board (USB plug in)
+
+Install a chip (4164 or 41256) on tester
+
+:heavy_check_mark: **Mind the right position of chip** :heavy_check_mark:
+
+Pin 1 and notch up near LEDs or arduino USB plug in
 
 Push **START** button
 
@@ -25,6 +32,7 @@ Select Board: *"Arduino AVR Boards"*
 
 **Arduino Nano** for this documentation
 
+Select Ports: **COM14** for example
 
 if you want a very slow refresh test then use "**slow**" TEST version
 
@@ -39,3 +47,4 @@ if you want normal refresh test then use "**normal**" TEST version
 dramarduino_new_normalTEST.ino
 ```
 
+Open "**Serial Monitor**" to show data of the DRAM TESTER Arduino
