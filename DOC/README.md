@@ -4,14 +4,16 @@
 ## Quick procedure
 
 Install a chip on tester
-push reset button
-LED (RED and GREEN) flashing during the test
 
-After few second
+Push **START** button
 
-GREEN = RAM OK
+LEDs (RED and GREEN) flashing during the test :high_brightness: :high_brightness:
 
-RED = RAM NOP
+:alarm_clock: A few moments later :alarm_clock:
+
+:eight_spoked_asterisk: GREEN = RAM OK
+
+:red_circle: RED = RAM ERROR
 
 ## Détailed test  
 
