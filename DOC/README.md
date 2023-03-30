@@ -20,11 +20,15 @@ LEDs (RED and GREEN) flashing during the test :high_brightness: :high_brightness
 
 :eight_spoked_asterisk: GREEN = RAM OK
 
-![RAM OK](https://github.com/Jean-Fred64/DRAM_Tester_Arduino/blob/main/IMG/RAM%20MT4264%20OK.jpg)
+[![RAM OK YouTube](https://github.com/Jean-Fred64/DRAM_Tester_Arduino/blob/main/IMG/DRAM%20Tester%20arduino%20OK%20_%20YT%20_%20preview.jpg)](https://youtu.be/aTQbg-2pw90)
+
+[RAM OK YouTube](https://youtu.be/aTQbg-2pw90) right click to open in new tab.
 
 :red_circle: RED = RAM ERROR
 
-![RAM ERROR](https://github.com/Jean-Fred64/DRAM_Tester_Arduino/blob/main/IMG/RAM%20MT4264%20NOP.jpg)
+[![RAM ERRORS YouTube](https://github.com/Jean-Fred64/DRAM_Tester_Arduino/blob/main/IMG/DRAM%20Tester%20arduino%20NOP%20_%20YT%20_%20preview.jpg)](https://youtu.be/yIkJVmaQICs)
+
+[RAM ERRORS YouTube](https://youtu.be/yIkJVmaQICs) right click to open in new tab.
 
 ## Détailed test  
 
