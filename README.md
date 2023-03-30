@@ -5,9 +5,7 @@ Another fork of DRAM_Tester_Arduino
 
 Currently works for 4164 and 41256 DRAM Modules
 
----
-
-[Documentation](https://github.com/Jean-Fred64/DRAM_Tester_Arduino/blob/main/DOC/Documentation.md) right click to open in new tab.
+## [Documentation](https://github.com/Jean-Fred64/DRAM_Tester_Arduino/blob/main/DOC/Documentation.md)
 
 ---
 Thanks for original design ksercan5 :wink:  
