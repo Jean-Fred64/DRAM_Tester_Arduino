@@ -56,3 +56,10 @@ dramarduino_new_normalTEST.ino
 ```
 
 Open "**Serial Monitor**" to show data of the DRAM TESTER Arduino
+
+---
+
+Max errors can defined at line 64 :
+```
+#define MAX_ERRORS   1024
+```
